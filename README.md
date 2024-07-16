@@ -19,20 +19,18 @@
 
 ![POST topicos](https://github.com/user-attachments/assets/00177f89-9d85-4d91-8aa7-05b8e8ad1d87)
 
-<p> Esta API cuenta con su documentacion hecha en swagger, si iniciamos la API y colocamos esto en el navegador podremos acceder a ella: http://localhost:8080/swagger-ui/index.html# </p>
-<p> en ella podras encontrar toda la informacion necesaria para el uso de la API. </p>
+<p> Esta API cuenta con su documentacion hecha en swagger, si iniciamos la API y colocamos esto en el navegador podremos acceder a ella: http://localhost:8080/swagger-ui/index.html#
+en ella podras encontrar toda la informacion necesaria para el uso de la API. </p>
 
-![Documentacion]![5](https://github.com/user-attachments/assets/84d14bbd-3c2c-45bf-be74-3230234531f8)
+![Documentacion](https://github.com/user-attachments/assets/84d14bbd-3c2c-45bf-be74-3230234531f8)
 
 <p> La API cuenta con medidas de seguridad como la validacion de los datos, excepciones, etc. </p>
 
 <p>¡Te invito a que la pruebes y te saques todas las dudas acerca de la misma! </p>
 
 
-
 <p> VARIABLES DE ENTORNO </p>
 
-![Seguridad](https://github.com/user-attachments/assets/41b6798e-578c-471e-989c-a8d70f8b57ba)
-
-
 https://www.mediafire.com/file/kxdfdyeac4mserv/Variables+de+Entorno+ForoHub.txt/file
+
+![Seguridad](https://github.com/user-attachments/assets/41b6798e-578c-471e-989c-a8d70f8b57ba)
